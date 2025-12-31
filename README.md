@@ -13,7 +13,7 @@
 - 🔒 لا يجمع أي بيانات
 
 ## 📥 التثبيت
-[تحميل من متجر فايرفوكس]([رابط_الإضافة_بعد_النشر](https://addons.mozilla.org/en-US/firefox/addon/%D9%88-%D8%AA-%D8%B1-watar/))
+[تحميل من متجر فايرفوكس][(https://addons.mozilla.org/en-US/firefox/addon/%D9%88-%D8%AA-%D8%B1-watar/)]
 
 ## 🛠️ الاستخدام
 1. اضغط على أيقونة الإضافة
@@ -38,10 +38,4 @@ Arabic Firefox extension for controlling video/audio playback speed across all w
 - Privacy-focused (no data collection)
 ```
 
----
-
-### 4️⃣ **نسخ رابط الـ Repository**
-
-بعد الانتهاء، انسخ الرابط من شريط العنوان:
 ```
-https://github.com/username/watar-speed-control
